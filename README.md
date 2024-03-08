@@ -1,4 +1,5 @@
  👋 Hi, I’m Taís Rocha!
+- System Analysis and Development Student at PUC Minas
 - 🍎 iOS Developer
 - 🇧🇷 Brazil
 - 👥 [Linkedin](https://www.linkedin.com/in/tais-rocha-nogueira/)
